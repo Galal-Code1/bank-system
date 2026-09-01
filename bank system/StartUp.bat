@@ -1,0 +1,1 @@
+setx forms60_path "D:\bank system"
